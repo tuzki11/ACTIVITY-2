@@ -1,0 +1,84 @@
+! DOCTYPE html>
+<head>
+<title> SECOND ACTIVITY </title>
+<body background="file:///C:/Users/Marin/Desktop/KENSHYN%20HTML/kens.webp">
+</head>
+<center>
+<h1 style="color:blue">SECOND ACTIVITY </h1>
+
+</tr>
+</th><br>
+<tr>
+<th>
+<h2 style="color:blue"> TWITTER </h2>
+Twitter is an American microblogging and social networking service on which users post and interact with messages known as "tweets". Registered users can post, like, and retweet tweets, but unregistered users can only read those that are publicly available.
+</th>
+</tr><br>
+<tr>
+<th>
+<h3 style="color:red"> INSTAGRAM </h3>
+Instagram is like a Facebook you can communicate with others. Also you can see a stories of your friend and you can watch a video like on facebook.
+</th>
+</tr><br>
+<th>
+<tr>
+<h4 stlye="color:yellow"> GOOGLE </h4>
+Google is one of the most website that we use always and what you want to search in google, google gives you a better results.
+</th>
+</tr><br>
+</center>
+</body>
+</html>
+
+<table class="center">
+<table border="1px">
+
+<tr>
+	<th>BROWSER</th>
+	<th>WEBSITES</th>
+	<th>LINKS</th>
+</tr>
+<tr>
+
+<table class="center">
+<table border="1px">
+
+<tr>
+	<th>BROWSER</th>
+	<th>WEBSITES</th>
+	<th>LINKS</th>
+</tr>
+<tr>
+	<td>CHROME</td>
+	<td>TWITTER</td>
+	<td><a href="https://https://twitter.com/" target=_"blank">https://https://twitter.com/</a></td>
+</tr>
+
+<table class="center">
+<table border="1px">
+
+<tr>
+	<th>BROWSER</th>
+	<th>WEBSITES</th>
+	<th>LINKS</th>
+</tr>
+<tr>
+	<td>CHROME</td>
+	<td>INSTAGRAM</td>
+	<td><a href="https://www.instragram.com/" target=_"blank">https://www.instragram.com/</a></td>
+</tr>
+
+<table class="center">
+<table border="1px">
+
+<tr>
+	<th>BROWSER</th>
+	<th>WEBSITES</th>
+	<th>LINKS</th>
+</tr>
+<tr>
+	<td>CHROME</td>
+	<td>GOOGLE</td>
+	<td><a href="https://www.google.com/" target=_"blank">https://www.google.com/</a></td>
+</tr>
+</center>
